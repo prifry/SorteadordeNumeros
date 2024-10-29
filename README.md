@@ -52,3 +52,9 @@ Imagens armazenadas na pasta img e fontes importadas do Google Fonts.
 # Licença
 Este projeto foi guiado pela Alura.
 
+
+
+https://github.com/user-attachments/assets/ed7c52c2-5543-4a91-91aa-7cd613833c16
+
+
+
